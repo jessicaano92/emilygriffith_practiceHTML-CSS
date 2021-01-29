@@ -1,13 +1,16 @@
-.selected {
-    font-weight: bold;
-  }
-  #ghosting, #resize {
-    width: 200px;
-    height: 200px;
-  }
-  #ghosting {
-    background-color: #ddd;
-  }
-  #resize {
-    background-color: orange;
-  }
+input[type=text], [type=email], [type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ }
+ 
+ input[type=text], [type=email], [type=password] {
+   border: 2px solid red;
+  border-radius: 4px;
+ }
+ 
+ input[type=text], [type=email], [type=password] {
+   background-color: #3CBC8D;
+  color: white;
+ }
