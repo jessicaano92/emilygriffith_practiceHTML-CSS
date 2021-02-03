@@ -10,7 +10,7 @@ Basic HTML and CSS
 ## Usage
 Practice making tables, forms, and CSS styling with the class
 
-
+## Licenses
 License
 MIT License
 
